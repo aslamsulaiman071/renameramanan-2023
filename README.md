@@ -9,10 +9,10 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMxLIGIT&repo=LIGIT-RENAME-BOT&theme=dark)
 
 
-### SAMPLE BOT (official pyro rename bot)
+### SAMPLE BOT (official Ligit rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/T0NY_rename_robot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/T0NY_rename_robot"><img title="Telegram" src="https://img.shields.io/static/v1?label=ligit+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 
