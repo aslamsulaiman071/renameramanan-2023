@@ -1,18 +1,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
+#  𝗟𝗜𝗚𝗜𝗧 𝗥𝗘𝗡𝗔𝗠𝗘 𝗕𝗢𝗧 
 
 
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMxLIGIT&repo=LIGIT-RENAME-BOT&theme=dark)
 
 
 ### SAMPLE BOT (official pyro rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/T0NY_rename_robot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 
@@ -24,7 +24,7 @@
 
 ◉ watch tutorial for render deploy <a href="https://youtu.be/i6OX3xzOCGY"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAMxLIGIT/TEAM-LIGIT-RENAME-BOT)
 
 ## Deploy To Railway
 
@@ -32,7 +32,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/TEAMxLIGIT/TEAM-LIGIT-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
