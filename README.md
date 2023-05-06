@@ -32,7 +32,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAMxLIGIT/TEAM-LIGIT-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/aslamsulaiman071/renameramanan-2023"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
