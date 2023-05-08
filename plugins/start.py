@@ -17,8 +17,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Telegram Link : https://t.me/PYRO_BOTZ 
-Repo Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT
-License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
+Repo Link : https://github.com/aslamsulaiman071/renameramanan-2023
+License Link : https://github.com/aslamsulaiman071/renameramanan-2023/blob/main/LICENSE
 """
 
 from asyncio import sleep
@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 ᴅᴇᴠs 👼", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/team_ligit'),
-        InlineKeyboardButton('🍂 sᴜᴘᴘᴏʀᴛ', url='https://t.me/sastatony')
+        InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+QBleQui-DABiNjY1'),
+        InlineKeyboardButton('🍂 sᴜᴘᴘᴏʀᴛ', url='https://t.me/+Wl2qJsJpNhg0OWVl')
         ],[
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
