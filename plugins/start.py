@@ -16,7 +16,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/PYRO_BOTZ 
+Telegram Link : https://t.me/cinemalokamramanan 
 Repo Link : https://github.com/aslamsulaiman071/renameramanan-2023
 License Link : https://github.com/aslamsulaiman071/renameramanan-2023/blob/main/LICENSE
 """
